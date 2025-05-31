@@ -1,5 +1,5 @@
-# AgentX-Whale
-AgentX-Whale for System Engineering Woerk product Generation, Automation and Compliance Checks for Automotive industry
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=yourusername/your-repo)
 
 # WHALE: Multi-Agent Requirement Engineering System
 
@@ -16,7 +16,7 @@ An AI-powered systems engineering co-pilot for the Automotive Industry.
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/mohinder-pandey/AgentX-Whale
+   git clone https://github.com/yourusername/your-repo.git
    cd your-repo
    ```
 
