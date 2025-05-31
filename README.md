@@ -16,7 +16,7 @@ An AI-powered systems engineering co-pilot for the Automotive Industry.
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/mohinder-pandey/AgentX-Whale
    cd your-repo
    ```
 
